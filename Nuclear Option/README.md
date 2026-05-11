@@ -34,7 +34,8 @@ Download all parts below, place them together, and run the `.exe` to extract aut
 2. Put them all in the same directory  
 3. Double‑click **`Nuclear Option.exe`**  
 4. The archive will auto‑combine and extract  
-5. Enjoy 🎉
+5. Use GSE and Apply Goldberg
+6. Enjoy 🎉
 
 ---
 
