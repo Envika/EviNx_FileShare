@@ -1,0 +1,48 @@
+name: Auto-Update Main README
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  build-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate project list
+        run: |
+          echo "# 📦 EviNx FileShare Hub" > README.md
+          echo "" >> README.md
+          echo "Welcome to **EviNx FileShare**. Below is the list of all downloadable archives:" >> README.md
+          echo "" >> README.md
+          echo "| # | Project | 📥 Link |" >> README.md
+          echo "|:-:|---------|----------|" >> README.md
+
+          i=1
+          for folder in */ ; do
+            if [ "$folder" != "Nuclear Option/" ] && [ "$folder" != ".github/" ]; then
+              continue
+            fi
+
+            name="${folder%/}"
+            link="https://github.com/Envika/EviNx_FileShare/tree/main/$name"
+            echo "| $i | $name | [Open Folder →]($link) |" >> README.md
+            i=$((i+1))
+          done
+
+          echo "" >> README.md
+          echo "---" >> README.md
+          echo "Auto-generated on: $(date)" >> README.md
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git commit -m "Auto-update README" || echo "No changes"
+          git push
