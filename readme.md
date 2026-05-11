@@ -29,4 +29,4 @@ Each project has its own folder and download page.
 - [IDM](https://soft98.ir/internet/download-manager/4-internet-download-manager-4.html/) – to download bulk files with ease
 ---
 
-⭐ **Tip:** You can bookmark this page — new projects will appear here automatically.
+⭐ **Tip:** You can bookmark this page — i will update it :D.
