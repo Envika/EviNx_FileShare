@@ -10,9 +10,8 @@ The archive has been split into 58 parts, each approximately 50 MB, to accommoda
 > ⚠️ **Important:** Download _all_ 58 files below to ensure proper extraction!  
 > Split size: ~94 MB each · Total: ≈ 5.17 GB
 
-|  #  | File            | Link                                                                                    |
-| :-: | --------------- | --------------------------------------------------------------------------------------- |
-|  1  | Hoi4Mods.7z.001 | [Download](https://github.com/Envika/EviNx_FileShare/raw/main/Hoi4Mods/Hoi4Mods.7z.001) |
+|  #  | File | Link |
+| :-: | ---- | ---- |
 
 ---
 
