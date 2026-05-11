@@ -11,8 +11,8 @@ Each project has its own folder and download page.
 | 🔢 | Project Name | 📥 Download Page |  
 |:--:|:--------------|:------------------|  
 | 1 | 💣 Nuclear Option | [Open Folder →](https://github.com/Envika/EviNx_FileShare/tree/main/Nuclear%20Option) |  
-| 2 | ⚙️ Hoi4 | Coming soon |  
-| 3 | 🧩 Hoi4Mods | Coming soon |
+| 2 | ⚙️ Hoi4 | Coming soon... |  
+| 3 | 🧩 Hoi4Mods | Coming soon... |
 
 ---
 
