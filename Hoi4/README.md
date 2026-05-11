@@ -27,3 +27,13 @@ The archive has been split into 58 parts, each approximately 50 MB, to accommoda
 7. If DLC's Didnt work use [Bazitory](bazitory.com) and download the specified file for Hoi4 Dlc. For online play first apply a onlinefix from pirategames/goldteam and the apply GSE
 
 ---
+
+## 🔗 Return to Main Hub
+
+[← Go back to EviNx FileShare](https://github.com/Envika/EviNx_FileShare)
+
+---
+
+**Uploaded:** May 2026  
+**Author:** Envika  
+**Compression:** 7‑Zip SFX · Split 94 MB parts

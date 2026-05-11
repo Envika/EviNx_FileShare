@@ -71,3 +71,13 @@ To use these mods, you need to download all parts and extract them into your Hea
 6. Install the extracted mods into your Hearts of Iron IV mod directory. Enjoy!
 
 ---
+
+## 🔗 Return to Main Hub
+
+[← Go back to EviNx FileShare](https://github.com/Envika/EviNx_FileShare)
+
+---
+
+**Uploaded:** May 2026  
+**Author:** Envika  
+**Compression:** 7‑Zip· Split 50 MB parts
