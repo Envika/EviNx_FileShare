@@ -39,35 +39,6 @@ Download all parts below, place them together, and run the `.exe` to extract aut
 
 ---
 
-## 📂 File List
-
-Nuclear Option.7z.001
-
-Nuclear Option.7z.002
-
-Nuclear Option.7z.003
-
-Nuclear Option.7z.004
-
-Nuclear Option.7z.005
-
-Nuclear Option.7z.006
-
-Nuclear Option.7z.007
-
-Nuclear Option.7z.008
-
-Nuclear Option.7z.009
-
-Nuclear Option.7z.010
-
-Nuclear Option.7z.011
-
-Nuclear Option.exe
-
-
----
-
 ## 🔗 Return to Main Hub  
 [← Go back to EviNx FileShare](https://github.com/Envika/EviNx_FileShare)
 
