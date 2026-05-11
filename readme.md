@@ -29,4 +29,17 @@ Each project has its own folder and download page.
 - [IDM](https://soft98.ir/internet/download-manager/4-internet-download-manager-4.html/) – to download bulk files with ease
 ---
 
+### 🌍 Why GitHub?
+I honestly never planned to use GitHub as a file-sharing platform, but due to the current internet situation in Iran, normal international internet access is heavily restricted and often unavailable.
+
+For many users here, accessing the global internet requires purchasing separate international traffic packages that can cost 4–5× more than regular internet access. Because of this, many common file-hosting services are either inaccessible, unstable, or impractical to use.
+
+At the moment, GitHub is one of the few platforms that remains relatively accessible and reliable for sharing large files and project resources.
+
+So until better options become available, this repository will act as the main hub for downloads and updates.
+
+Thank you for understanding and supporting the project ❤️  
+
+---  
+
 ⭐ **Tip:** You can bookmark this page — i will update it :D.
