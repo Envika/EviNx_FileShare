@@ -131,7 +131,7 @@ The archive has been split into 108 parts, each approximately 50 MB, to accommod
 4. Open `Hearts of Iron IV.exe` and extract to somewhere
 5. The program will automatically combine all parts and extract the full pack.
 6. Its already full DLC, use gse and enjoy!
-7. If DLC's Didnt work use [Bazitory](bazitory.com) and download the specified file for Hoi4 Dlc. For online play first apply a onlinefix from pirategames/goldteam and the apply GSE
+7. If DLC's Didnt work use [Bazitory](https://bazitory.com/) and download the specified file for Hoi4 Dlc. For online play first apply a onlinefix from pirategames/goldteam and the apply GSE
 
 ---
 
