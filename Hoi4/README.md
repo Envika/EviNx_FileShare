@@ -143,4 +143,4 @@ The archive has been split into 108 parts, each approximately 50 MB, to accommod
 
 **Uploaded:** May 2026  
 **Author:** Envika  
-**Compression:** 7‑Zip SFX · Split 94 MB parts
+**Compression:** 7‑Zip SFX · Split 50 MB parts
