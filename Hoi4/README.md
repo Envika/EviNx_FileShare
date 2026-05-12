@@ -119,7 +119,7 @@ The archive has been split into 108 parts, each approximately 50 MB, to accommod
 | 105 | Hearts of Iron IV.7z.105 | [Download](https://github.com/Envika/EviNx_FileShare/raw/main/Hoi4/Hearts%20of%20Iron%20IV.7z.105) |
 | 106 | Hearts of Iron IV.7z.106 | [Download](https://github.com/Envika/EviNx_FileShare/raw/main/Hoi4/Hearts%20of%20Iron%20IV.7z.106) |
 | 107 | Hearts of Iron IV.7z.107 | [Download](https://github.com/Envika/EviNx_FileShare/raw/main/Hoi4/Hearts%20of%20Iron%20IV.7z.107) |
-| 108 | Hearts of Iron IV.7z.108 | [Download](https://github.com/Envika/EviNx_FileShare/raw/main/Hoi4/Hearts%20of%20Iron%20IV.exe)    |
+| 108 | Hearts of Iron IV.exe    | [Download](https://github.com/Envika/EviNx_FileShare/raw/main/Hoi4/Hearts%20of%20Iron%20IV.exe)    |
 
 ---
 
